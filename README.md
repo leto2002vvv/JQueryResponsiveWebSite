@@ -12,8 +12,7 @@
     SCSS
 
 ##### Deployed Project :
-    https://responsive-web-layout-pi.vercel.app/
-
+    https://j-query-responsive-web-site.vercel.app/
 
 ###### Installation:
     git clone https://github.com/leto2002vvv/JQueryResponsiveWebSite.git
